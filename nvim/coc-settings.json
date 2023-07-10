@@ -1,0 +1,8 @@
+{
+  "lisp.enabled": true,
+  "lisp.serverPath": "cl-lsp",
+  "lisp.serverArguments": [],
+  "lisp.toolchain": "",
+  "lisp.maxNumberOfProblems": 100,
+  "lisp.trace.server": "",
+}
