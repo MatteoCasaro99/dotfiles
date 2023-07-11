@@ -1,7 +1,7 @@
 {
   "coc.nvim": { "branch": "release", "commit": "bbaa1d5d1ff3cbd9d26bb37cfda1a990494c4043" },
-  "lazy.nvim": { "branch": "main", "commit": "5af331ea65418dc9361769891921fdee4bcc837a" },
-  "nvim-treesitter": { "branch": "master", "commit": "d9104a1d10023ed9e7eacf68639ad887425246eb" },
+  "lazy.nvim": { "branch": "main", "commit": "da8b00581a52f5f87ad2aba9f52171fda7491f18" },
+  "nvim-treesitter": { "branch": "master", "commit": "3af1220e18034eb2ce7d1c8e77055bc3bf3c1c36" },
   "tokyonight.nvim": { "branch": "main", "commit": "284667adfff02b9a0adc65968c553c6096b543b6" },
   "vimtex": { "branch": "master", "commit": "bab96ed04dd951b22663b08c670ff33960fc6419" }
 }
