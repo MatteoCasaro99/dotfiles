@@ -31,3 +31,6 @@ keymap("n", "<A-h>", "<C-w>h", options)
 keymap("n", "<A-j>", "<C-w>j", options)
 keymap("n", "<A-k>", "<C-w>k", options)
 keymap("n", "<A-l>", "<C-w>l", options)
+
+-- use <leader>g to go to jump to help section
+keymap("n", "<leader>g", "<C-]>", options)

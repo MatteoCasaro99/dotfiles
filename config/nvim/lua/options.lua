@@ -26,3 +26,4 @@ vim.opt.relativenumber = true
 vim.opt.numberwidth = 2
 vim.opt.signcolumn = "yes"
 vim.opt.scrolloff = 5
+vim.opt.virtualedit= "block"
